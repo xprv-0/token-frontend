@@ -54,6 +54,12 @@ export function createClient() {
           ...createReadField("amount"),
         },
       },
+      RewardPerAssetDetail: {
+        keyFields: false,
+        fields: {
+          ...createReadField("totalAmount"),
+        },
+      },
       Node: {
         keyFields: false,
         fields: {
