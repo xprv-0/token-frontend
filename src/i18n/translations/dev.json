@@ -14,6 +14,7 @@
   "pageTitleGovernance": "Governance",
   "pageTitleDepositLp": "Deposit liquidity token for VEGA rewards",
   "pageTitleWithdrawLp": "Withdraw SLP and Rewards",
+  "pageTitleRewards": "Rewards",
   "Vesting": "Vesting",
   "unstaked": "Unstaked",
   "of": "of",
@@ -398,5 +399,8 @@
   "stakingNodeNotFound": "Could not find a node with id {{node}}",
   "copyToClipboard": "Copy to clipboard",
   "copied!": "Copied!",
-  "viewAllTranches": "View all tranches"
+  "viewAllTranches": "View all tranches",
+  "rewardsParagraph1": "Participants who nominate a Validator node are rewarded with share of the <strong>infrastructure fees</strong> that are collected when a Validator successfully plays a roll in an epoch. These rewards will be collected in the settlement asset(s) of the markets that are active in an epoch.",
+  "rewardsParagraph2": "The Vega network also pays out <strong>Rewards</strong> in VEGA tokens as an extra incentive for running/nominating a Validator node.",
+  "rewardsParagraph3": "An epoch is a time during which changes can be announced, and then executed in the next epoch. The length is set through a network parameter and is changeable by governance vote. "
 }
