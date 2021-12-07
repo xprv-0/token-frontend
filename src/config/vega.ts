@@ -205,3 +205,4 @@ export const GraphQLNodes = Object.keys(VegaNetworks).reduce(
   },
   {}
 ) as NetworkConfig;
+
